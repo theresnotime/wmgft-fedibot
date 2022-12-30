@@ -1,10 +1,10 @@
 # WMGFT FediBot
 
 ## Todo
-[ ] Parse Phab tasks and generate JSON
-[ ] Manually add hashtags to JSON
-[ ] Randomly select task from JSON and generate post
-[ ] Toot!
+- [ ] Parse Phab tasks and generate JSON
+- [ ] Manually add hashtags to JSON
+- [ ] Randomly select task from JSON and generate post
+- [ ] Toot!
 
 ## Generate JSON
 Read https://phabricator.wikimedia.org/maniphest/query/u8k6X70S9euJ/#R and extract some elements into a JSON file:
