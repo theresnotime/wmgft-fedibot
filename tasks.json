@@ -1,0 +1,30 @@
+{
+    "T319097": {
+        "title": "mwbot-rs: Split up node.rs",
+        "url": "https://phabricator.wikimedia.org/T319097",
+        "hashtags": [
+            "rust"
+        ]
+    },
+    "T319105": {
+        "title": "mwbot-rs: Allow bots to set and access extra config in mwbot.toml",
+        "url": "https://phabricator.wikimedia.org/T319105",
+        "hashtags": [
+            "rust"
+        ]
+    },
+    "T319107": {
+        "title": "mwbot-rs: Support prop=images in mwapi_responses",
+        "url": "https://phabricator.wikimedia.org/T319107",
+        "hashtags": [
+            "rust"
+        ]
+    },
+    "T252341": {
+        "title": "Add the help button in VideoCutTool",
+        "url": "https://phabricator.wikimedia.org/T252341",
+        "hashtags": [
+            "nodejs"
+        ]
+    }
+}
